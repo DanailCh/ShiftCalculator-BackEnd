@@ -1,0 +1,15 @@
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\net6.0\ShiftCalculator.csproj.AssemblyReference.cache
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\net6.0\ShiftCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\net6.0\ShiftCalculator.AssemblyInfoInputs.cache
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\net6.0\ShiftCalculator.AssemblyInfo.cs
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\net6.0\ShiftCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\bin\Debug\net6.0\ShiftCalculator.exe
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\bin\Debug\net6.0\ShiftCalculator.deps.json
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\bin\Debug\net6.0\ShiftCalculator.runtimeconfig.json
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\bin\Debug\net6.0\ShiftCalculator.dll
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\bin\Debug\net6.0\ShiftCalculator.pdb
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\net6.0\ShiftCalculator.dll
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\net6.0\refint\ShiftCalculator.dll
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\net6.0\ShiftCalculator.pdb
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\net6.0\ShiftCalculator.genruntimeconfig.cache
+C:\Users\dante\source\repos\ShiftCalculator\ShiftCalculator\obj\Debug\net6.0\ref\ShiftCalculator.dll
